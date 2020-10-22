@@ -1,17 +1,20 @@
 body{
     background-color:white;
+    text-align: right;
 }
 .qwerty{
 display: flex;
 justify-content: space-evenly;
 margin-top: 10px;
+margin-bottom: 10px;
 
 }
 
 .qwertyy{
     display: flex;
 justify-content:space-around;
-margin-top: 10px;
+margin-top: 3px;
+margin-bottom: 3px;
 }
 .q{
 width: 15%;
@@ -19,6 +22,8 @@ height: 30px;
 color: white;
 border-radius: 20px;
 background-color: black;
+padding: 5px;
+box-sizing: border-box;
 }
 .a{
     
@@ -69,5 +74,15 @@ margin-top: auto;
     
 }
 .m:hover{box-shadow: 2px 3px 10px black;       }
+.twoimg{
+width:100%;
+height:500px ;
+
+}
+.margin{display: flex;
+    justify-content: center;
+  
+}
+
 
 
