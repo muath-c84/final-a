@@ -5,8 +5,9 @@ body{
 display: flex;
 justify-content: space-evenly;
 margin-top: 10px;
-    
+
 }
+
 .qwertyy{
     display: flex;
 justify-content:space-around;
@@ -55,3 +56,18 @@ font-size: medium;
     height: 92%;
     border-radius: 20px;
 }
+.f{
+display: flex;
+justify-content: center;
+margin-bottom: auto;
+margin-top: auto;
+}
+.m
+  {
+    transition:box-shadow 0.5s linear;
+    box-shadow: 50px;
+    
+}
+.m:hover{box-shadow: 2px 3px 10px black;       }
+
+
