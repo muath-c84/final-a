@@ -34,9 +34,11 @@ box-sizing: border-box;
 }
 .z{display: flex;
     justify-content: center;
-    background-color: black;
+    background-color: rgb(179, 10, 10);
     color: white;
     border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    font-size: large;
 }
 .one{
 
